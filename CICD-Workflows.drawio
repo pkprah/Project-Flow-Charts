@@ -24,7 +24,9 @@
           <mxGeometry height="80" width="160" x="25" y="100" as="geometry" />
         </mxCell>
         <mxCell id="vI5FGRBdaoxandpGKkWi-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="GitHub" vertex="1">
-          <mxGeometry height="200" width="200" x="370" y="330" as="geometry" />
+          <mxGeometry height="200" width="200" x="370" y="330" as="geometry">
+            <mxRectangle height="30" width="80" x="370" y="330" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vI5FGRBdaoxandpGKkWi-16" parent="vI5FGRBdaoxandpGKkWi-15" style="ellipse;whiteSpace=wrap;html=1;" value="Branch update&lt;br&gt;Main update &lt;br&gt;GitHub Actions Trigger" vertex="1">
           <mxGeometry height="130" width="140" x="30" y="35" as="geometry" />
